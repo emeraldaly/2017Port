@@ -238,6 +238,12 @@ header .intro-text {
   padding-bottom: 10px;
   color: #424242;
 }
+header .into-text img {
+  margin: 0 auto;
+  border: 7px solid white;
+  height: 150px;
+  position: left;
+}
 header .intro-text .intro-lead {
   font-family:'Ledger', serif;
   color: #ffffff;
@@ -558,6 +564,7 @@ section h3.section-subheading {
 .team-member p {
   margin-top: 0;
 }
+
 aside.clients img {
   margin: 50px auto;
 }
